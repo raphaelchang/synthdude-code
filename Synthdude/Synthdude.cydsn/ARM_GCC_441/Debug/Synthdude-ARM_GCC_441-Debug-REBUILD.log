@@ -1,0 +1,85 @@
+--------------- Rebuild Started: 05/05/2017 20:36:23 Project: Synthdude, Configuration: ARM GCC 4.4.1 Debug ---------------
+Deleting file ".\ARM_GCC_441\Debug\main.o"
+Deleting file ".\ARM_GCC_441\Debug\VDAC8_1.o"
+Deleting file ".\ARM_GCC_441\Debug\VDAC8_1_PM.o"
+Deleting file ".\ARM_GCC_441\Debug\P0_2.o"
+Deleting file ".\ARM_GCC_441\Debug\isr_1.o"
+Deleting file ".\ARM_GCC_441\Debug\Timer_1.o"
+Deleting file ".\ARM_GCC_441\Debug\Timer_1_PM.o"
+Deleting file ".\ARM_GCC_441\Debug\UART_1.o"
+Deleting file ".\ARM_GCC_441\Debug\UART_1_PM.o"
+Deleting file ".\ARM_GCC_441\Debug\UART_1_INT.o"
+Deleting file ".\ARM_GCC_441\Debug\UART_1_BOOT.o"
+Deleting file ".\ARM_GCC_441\Debug\UART_1_IntClock.o"
+Deleting file ".\ARM_GCC_441\Debug\Cm3Start.o"
+Deleting file ".\ARM_GCC_441\Debug\core_cm3.o"
+Deleting file ".\ARM_GCC_441\Debug\CyBootAsmGnu.o"
+Deleting file ".\ARM_GCC_441\Debug\CyDmac.o"
+Deleting file ".\ARM_GCC_441\Debug\CyFlash.o"
+Deleting file ".\ARM_GCC_441\Debug\CyLib.o"
+Deleting file ".\ARM_GCC_441\Debug\cyPm.o"
+Deleting file ".\ARM_GCC_441\Debug\CySpc.o"
+Deleting file ".\ARM_GCC_441\Debug\cyutils.o"
+Deleting file ".\ARM_GCC_441\Debug\cyfitter_cfg.o"
+Deleting file ".\ARM_GCC_441\Debug\Synthdude.hex"
+Deleting file ".\ARM_GCC_441\Debug\Synthdude.elf"
+Deleting file ".\ARM_GCC_441\Debug\Synthdude.map"
+Deleting file ".\Synthdude.cycdx"
+Deleting file ".\Synthdude.svd"
+Deleting file ".\Synthdude.rpt"
+Deleting file ".\Synthdude_timing.html"
+Deleting file ".\ARM_GCC_441\Debug\.deps\C_FILE.P"
+Deleting file ".\ARM_GCC_441\Debug\.deps\ARM_C_FILE.P"
+Deleting file ".\ARM_GCC_441\Debug\.deps\GNU_ARM_ASM_FILE.P"
+cydsfit.exe "-.appdatapath" "C:\Users\Raphael Chang\AppData\Local\Cypress Semiconductor\PSoC Creator\2.2" "-.fdsnotice" "-.fdswarpdepfile=warp_dependencies.txt" "-.fdselabdepfile=elab_dependencies.txt" "-.fdsbldfile=generated_files.txt" "-p" "\\vmware-host\Shared Folders\Documents\Archive\Sophomore Year\6.115\Synthdude\Synthdude.cydsn\Synthdude.cyprj" "-d" "CY8C5868AXI-LP035" "-s" "\\vmware-host\Shared Folders\Documents\Archive\Sophomore Year\6.115\Synthdude\Synthdude.cydsn\Generated_Source\PSoC5" "--" "-yv2" "-v3" "-ygs" "-q10" "-o2" "-.fftcfgtype=LE"
+Elaborating Design...
+HDL Generation ...
+Synthesis ...
+Place and Route ...
+Tech mapping ...
+ADD: pft.M0040: information: The following 1 pin(s) will be assigned a location by the fitter: Tx_1(0)
+Info: mpr.M0037: Unused pieces of the design have been optimized out. See the Tech mapping section of the report file for details. (App=cydsfit)
+Analog Placement ...
+Log: apr.M0058: The analog placement iterative improvement is 31% done. (App=cydsfit)
+Log: apr.M0058: The analog placement iterative improvement is 57% done. (App=cydsfit)
+Log: apr.M0058: The analog placement iterative improvement is 79% done. (App=cydsfit)
+Log: apr.M0058: The analog placement iterative improvement is 100% done. (App=cydsfit)
+Analog Routing ...
+Analog Code Generation ...
+Digital Placement ...
+Digital Routing ...
+Bitstream Generation ...
+Static timing analysis ...
+API Generation ...
+Dependency Generation ...
+Clean Temporary Files ...
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\main.lst -ffunction-sections -c .\main.c -o .\ARM_GCC_441\Debug\main.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\VDAC8_1.lst -ffunction-sections -c .\Generated_Source\PSoC5\VDAC8_1.c -o .\ARM_GCC_441\Debug\VDAC8_1.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\VDAC8_1_PM.lst -ffunction-sections -c .\Generated_Source\PSoC5\VDAC8_1_PM.c -o .\ARM_GCC_441\Debug\VDAC8_1_PM.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\P0_2.lst -ffunction-sections -c .\Generated_Source\PSoC5\P0_2.c -o .\ARM_GCC_441\Debug\P0_2.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\isr_1.lst -ffunction-sections -c .\Generated_Source\PSoC5\isr_1.c -o .\ARM_GCC_441\Debug\isr_1.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\Timer_1.lst -ffunction-sections -c .\Generated_Source\PSoC5\Timer_1.c -o .\ARM_GCC_441\Debug\Timer_1.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\Timer_1_PM.lst -ffunction-sections -c .\Generated_Source\PSoC5\Timer_1_PM.c -o .\ARM_GCC_441\Debug\Timer_1_PM.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\UART_1.lst -ffunction-sections -c .\Generated_Source\PSoC5\UART_1.c -o .\ARM_GCC_441\Debug\UART_1.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\UART_1_PM.lst -ffunction-sections -c .\Generated_Source\PSoC5\UART_1_PM.c -o .\ARM_GCC_441\Debug\UART_1_PM.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\UART_1_INT.lst -ffunction-sections -c .\Generated_Source\PSoC5\UART_1_INT.c -o .\ARM_GCC_441\Debug\UART_1_INT.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\UART_1_BOOT.lst -ffunction-sections -c .\Generated_Source\PSoC5\UART_1_BOOT.c -o .\ARM_GCC_441\Debug\UART_1_BOOT.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\UART_1_IntClock.lst -ffunction-sections -c .\Generated_Source\PSoC5\UART_1_IntClock.c -o .\ARM_GCC_441\Debug\UART_1_IntClock.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\Cm3Start.lst -ffunction-sections -c .\Generated_Source\PSoC5\Cm3Start.c -o .\ARM_GCC_441\Debug\Cm3Start.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\core_cm3.lst -ffunction-sections -c .\Generated_Source\PSoC5\core_cm3.c -o .\ARM_GCC_441\Debug\core_cm3.o
+arm-none-eabi-as.exe -I. -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -g -alh=.\ARM_GCC_441\Debug/CyBootAsmGnu.lst -o .\ARM_GCC_441\Debug\CyBootAsmGnu.o .\Generated_Source\PSoC5\CyBootAsmGnu.s
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\CyDmac.lst -ffunction-sections -c .\Generated_Source\PSoC5\CyDmac.c -o .\ARM_GCC_441\Debug\CyDmac.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\CyFlash.lst -ffunction-sections -c .\Generated_Source\PSoC5\CyFlash.c -o .\ARM_GCC_441\Debug\CyFlash.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\CyLib.lst -ffunction-sections -c .\Generated_Source\PSoC5\CyLib.c -o .\ARM_GCC_441\Debug\CyLib.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\cyPm.lst -ffunction-sections -c .\Generated_Source\PSoC5\cyPm.c -o .\ARM_GCC_441\Debug\cyPm.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\CySpc.lst -ffunction-sections -c .\Generated_Source\PSoC5\CySpc.c -o .\ARM_GCC_441\Debug\CySpc.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\cyutils.lst -ffunction-sections -c .\Generated_Source\PSoC5\cyutils.c -o .\ARM_GCC_441\Debug\cyutils.o
+arm-none-eabi-gcc.exe -I. -Wno-main -I./Generated_Source/PSoC5 -mcpu=cortex-m3 -mthumb -Wall -g -Wa,-alh=.\ARM_GCC_441\Debug\cyfitter_cfg.lst -ffunction-sections -c .\Generated_Source\PSoC5\cyfitter_cfg.c -o .\ARM_GCC_441\Debug\cyfitter_cfg.o
+arm-none-eabi-ar.exe -rs .\ARM_GCC_441\Debug\Synthdude.a .\ARM_GCC_441\Debug\VDAC8_1.o .\ARM_GCC_441\Debug\VDAC8_1_PM.o .\ARM_GCC_441\Debug\P0_2.o .\ARM_GCC_441\Debug\isr_1.o .\ARM_GCC_441\Debug\Timer_1.o .\ARM_GCC_441\Debug\Timer_1_PM.o .\ARM_GCC_441\Debug\UART_1.o .\ARM_GCC_441\Debug\UART_1_PM.o .\ARM_GCC_441\Debug\UART_1_INT.o .\ARM_GCC_441\Debug\UART_1_BOOT.o .\ARM_GCC_441\Debug\UART_1_IntClock.o .\ARM_GCC_441\Debug\core_cm3.o .\ARM_GCC_441\Debug\CyBootAsmGnu.o .\ARM_GCC_441\Debug\CyDmac.o .\ARM_GCC_441\Debug\CyFlash.o .\ARM_GCC_441\Debug\CyLib.o .\ARM_GCC_441\Debug\cyPm.o .\ARM_GCC_441\Debug\CySpc.o .\ARM_GCC_441\Debug\cyutils.o .\ARM_GCC_441\Debug\cyfitter_cfg.o
+arm-none-eabi-ar.exe: creating .\ARM_GCC_441\Debug\Synthdude.a
+arm-none-eabi-gcc.exe -mthumb -march=armv7-m -mfix-cortex-m3-ldrd -T .\Generated_Source\PSoC5\cm3gcc.ld -g -Wl,-Map,.\ARM_GCC_441\Debug\Synthdude.map -Wl,--gc-sections -Wl,--start-group -o .\ARM_GCC_441\Debug\Synthdude.elf .\ARM_GCC_441\Debug\main.o .\ARM_GCC_441\Debug\Cm3Start.o .\ARM_GCC_441\Debug\Synthdude.a "C:\Program Files (x86)\Cypress\PSoC Creator\2.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_441\Debug\CyComponentLibrary.a" -Wl,--end-group
+arm-none-eabi-objcopy.exe -O ihex .\ARM_GCC_441\Debug\Synthdude.elf .\ARM_GCC_441\Debug\Synthdude.ihx
+cyhextool -o .\ARM_GCC_441\Debug\Synthdude.hex -f .\ARM_GCC_441\Debug\Synthdude.ihx -prot .\Generated_Source\PSoC5\protect.hex -id 2E123069 -a EEPROM=90200000:800,PROGRAM=00000000:40000,CONFIG=80000000:8000,PROTECT=90400000:100 -meta 0001 -cunv 00004005 -wonv BC90ACAF -ecc .\Generated_Source\PSoC5\config.hex
+Flash used: 4472 of 262144 bytes (1.7 %).
+SRAM used: 292 of 65536 bytes (0.4 %).
+--------------- Rebuild Succeeded: 05/05/2017 20:37:38 ---------------

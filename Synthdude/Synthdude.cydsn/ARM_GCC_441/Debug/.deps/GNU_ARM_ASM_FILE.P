@@ -1,0 +1,4 @@
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/ARM_GCC_441/Debug/CyBootAsmGnu.o : //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+

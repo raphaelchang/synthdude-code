@@ -1,0 +1,15 @@
+--------------- Build Started: 05/18/2017 01:58:18 Project: Synthdude, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
+The code generation step is up to date.
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\ARM_GCC_493\Debug/main.lst -g -Wall -ffunction-sections -O0 -ffat-lto-objects -c main.c -o .\ARM_GCC_493\Debug\main.o
+main.c: In function 'main':
+main.c:422:21: warning: array subscript has type 'char' [-Wchar-subscripts]
+                     double currpt = ArbTable16[inx];
+                     ^
+arm-none-eabi-ar.exe -rs .\ARM_GCC_493\Debug\Synthdude.a .\ARM_GCC_493\Debug\cyfitter_cfg.o .\ARM_GCC_493\Debug\P0_2.o .\ARM_GCC_493\Debug\isr_1.o .\ARM_GCC_493\Debug\Timer_1.o .\ARM_GCC_493\Debug\Timer_1_PM.o .\ARM_GCC_493\Debug\UART_1.o .\ARM_GCC_493\Debug\UART_1_PM.o .\ARM_GCC_493\Debug\UART_1_INT.o .\ARM_GCC_493\Debug\UART_1_BOOT.o .\ARM_GCC_493\Debug\CyDmac.o .\ARM_GCC_493\Debug\CyFlash.o .\ARM_GCC_493\Debug\CyLib.o .\ARM_GCC_493\Debug\cyPm.o .\ARM_GCC_493\Debug\CySpc.o .\ARM_GCC_493\Debug\cyutils.o .\ARM_GCC_493\Debug\timer_clock_1.o .\ARM_GCC_493\Debug\isr_2.o .\ARM_GCC_493\Debug\timer_clock_3.o .\ARM_GCC_493\Debug\WaveDAC8_1.o .\ARM_GCC_493\Debug\WaveDAC8_1_PM.o .\ARM_GCC_493\Debug\WaveDAC8_1_Wave1_DMA_dma.o .\ARM_GCC_493\Debug\WaveDAC8_1_Wave2_DMA_dma.o .\ARM_GCC_493\Debug\WaveDAC8_1_VDAC8.o .\ARM_GCC_493\Debug\WaveDAC8_1_VDAC8_PM.o .\ARM_GCC_493\Debug\WaveDAC8_1_BuffAmp.o .\ARM_GCC_493\Debug\WaveDAC8_1_BuffAmp_PM.o .\ARM_GCC_493\Debug\timer_clock_2.o .\ARM_GCC_493\Debug\CyBootAsmGnu.o
+arm-none-eabi-ar.exe: creating .\ARM_GCC_493\Debug\Synthdude.a
+arm-none-eabi-gcc.exe -Wl,--start-group -o .\ARM_GCC_493\Debug\Synthdude.elf .\ARM_GCC_493\Debug\main.o .\ARM_GCC_493\Debug\Cm3Start.o .\ARM_GCC_493\Debug\cymetadata.o .\ARM_GCC_493\Debug\Synthdude.a "C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_493\Debug\CyComponentLibrary.a" -mcpu=cortex-m3 -mthumb -g -ffunction-sections -O0 -ffat-lto-objects -l m -L Generated_Source\PSoC5 -Wl,-Map,.\ARM_GCC_493\Debug/Synthdude.map -T "\\vmware-host\Shared Folders\Documents\Archive\Sophomore Year\6.115\Synthdude\Synthdude.cydsn\Generated_Source\PSoC5\cm3gcc.ld" -specs=nano.specs -Wl,--gc-sections -Wl,--end-group
+cyelftool.exe -C "\\vmware-host\Shared Folders\Documents\Archive\Sophomore Year\6.115\Synthdude\Synthdude.cydsn\ARM_GCC_493\Debug\Synthdude.elf" --flash_row_size 256 --flash_size 262144
+cyelftool.exe -S "\\vmware-host\Shared Folders\Documents\Archive\Sophomore Year\6.115\Synthdude\Synthdude.cydsn\ARM_GCC_493\Debug\Synthdude.elf"
+Flash used: 20558 of 262144 bytes (7.8 %).
+SRAM used: 7405 of 65536 bytes (11.3 %). Stack: 2048 bytes. Heap: 128 bytes.
+--------------- Build Succeeded: 05/18/2017 01:58:24 ---------------

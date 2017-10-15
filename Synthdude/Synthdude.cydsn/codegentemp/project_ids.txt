@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Documents\Archive\Sophomore Year\6.115\Synthdude\Synthdude.cydsn\Synthdude.cyprj|563877d0-3b65-4e5f-8d87-9f0ba2a43c60
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|05a45963-d514-4d19-a7a7-fd188c6bb927
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|56a40aa1-7a00-4055-8828-fb823bc23985
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|76c9dccc-88ec-47b2-851d-75476fc906b1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|538bdc30-b520-4e69-8e37-f91a7361dfc7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e84609f6-cf93-4d36-a30e-f6ffccee611b

@@ -1,0 +1,58 @@
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/ARM_GCC_441/Debug/main.o : //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyDmac.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyFlash.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyLib.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CySpc.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/P0_2.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/P0_2_aliases.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/Timer_1.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/Timer_2.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/UART_1.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/VDAC8_1.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/core_cm3.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cyPm.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cydevice.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cydevice_trm.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cyfitter.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cypins.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cytypes.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/isr_1.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/isr_2.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/project.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/timer_clock_1.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/device.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/fft.h //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/main.c //vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/note.h 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/P0_2.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/P0_2_aliases.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/Timer_1.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/Timer_2.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/UART_1.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/VDAC8_1.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/isr_1.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/isr_2.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/project.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/Generated_Source/PSoC5/timer_clock_1.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/device.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/fft.h : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/main.c : 
+
+//vmware-host/Shared\ Folders/Documents/Archive/Sophomore\ Year/6.115/Synthdude/Synthdude.cydsn/note.h : 
+
